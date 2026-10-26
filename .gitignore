@@ -1,0 +1,8 @@
+mini-atlas/
+results/QC/expr_log2cpm.csv
+results/QC/expr_log2cpm.csv.gz
+results/QC/detected.csv
+results/QC/detected.csv.gz
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

@@ -1,0 +1,6 @@
+step,n_cells
+reconstructed (morphology + metadata),646
+minus errata cell,645
+minus metadata exclusions,645
+minus low-quality / NP families,634
+genes detected >= 4000,605
