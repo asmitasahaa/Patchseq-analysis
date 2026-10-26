@@ -1,0 +1,17 @@
+name: patchseq
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.12
+  - statsmodels
+  - scipy
+  - ipykernel
+  - jupyterlab
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - pandas
+  - numpy
+prefix: /opt/anaconda3/envs/patchseq
